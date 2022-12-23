@@ -1,0 +1,8 @@
+{
+    "recipient":"",
+    "rpcProvider":"https://data-seed-prebsc-1-s1.binance.org:8545/",
+    "2captchaKEY":"",
+    "proxyHost":"isp2.hydraproxy.com",
+    "proxyPort":"9989",
+    "userAndPass":""  
+}

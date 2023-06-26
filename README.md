@@ -1,6 +1,6 @@
 # TBNB_GRINDER
 
-### The objective of this project is PURELY DIDACTIC
+### The objective of this project is PURELY DIDACTIC, about how EVM blockchains wallets can be automatically generated and used
 
 ### This software can be used to get TBNB faster from BSC TESTNET FAUCET
 
